@@ -110,8 +110,12 @@ All requirements are completed.
 ## 👨‍🎓 Student Details
 
 Name: Ishant Singh
+
 Course: BTech CSE Cyber Security
-Assignment: Lab Assignment 1  
+
+Assignment: Lab Assignment 1
+
 Roll no. 2501410067
+
 
 ---
