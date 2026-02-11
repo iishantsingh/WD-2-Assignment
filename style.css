@@ -1,0 +1,135 @@
+* {
+  box-sizing: border-box;
+  font-family: Arial, sans-serif;
+}
+
+body {
+  margin: 0;
+  background: linear-gradient(135deg, #56c6c6, #4fa3c7);
+  min-height: 100vh;
+}
+
+
+
+header {
+  text-align: center;
+  padding: 20px;
+  color: white;
+  font-size: 28px;
+  font-weight: bold;
+}
+
+
+.main {
+  display: flex;
+  gap: 20px;
+  padding: 20px;
+  max-width: 1200px;
+  margin: auto;
+}
+
+.card {
+  background: white;
+  padding: 20px;
+  border-radius: 12px;
+  box-shadow: 0 5px 15px rgba(0,0,0,0.2);
+  width: 35%;
+}
+
+.big {
+  width: 65%;
+}
+
+
+
+label {
+  margin-top: 10px;
+  display: block;
+  font-weight: bold;
+}
+
+input, select, textarea {
+  width: 100%;
+  padding: 8px;
+  margin-top: 5px;
+  border-radius: 6px;
+  border: 1px solid #ccc;
+}
+
+textarea {
+  resize: none;
+  height: 70px;
+}
+
+
+.btn-main {
+  width: 100%;
+  margin-top: 15px;
+  padding: 10px;
+  background: linear-gradient(to right,#55c6c6,#5aa7d8);
+  color: white;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+}
+
+.btn-main:hover {
+  opacity: 0.9;
+}
+
+.btn-group {
+  display: flex;
+  gap: 10px;
+  margin-bottom: 10px;
+}
+
+.btn-group button {
+  flex: 1;
+  padding: 8px;
+  border: none;
+  border-radius: 6px;
+  background: #5aa7d8;
+  color: white;
+  cursor: pointer;
+}
+
+
+.event {
+  background: #f5f9ff;
+  padding: 10px;
+  border-radius: 8px;
+  margin-bottom: 10px;
+  position: relative;
+}
+
+.delete {
+  position: absolute;
+  right: 8px;
+  top: 8px;
+  background: red;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  padding: 3px 6px;
+  cursor: pointer;
+}
+
+
+#empty {
+  color: gray;
+}
+
+
+.dom {
+  max-width: 1200px;
+  margin: 20px auto;
+}
+
+.dom input {
+  margin-top: 10px;
+}
+
+#demoText {
+  margin-top: 10px;
+  font-size: 18px;
+}
