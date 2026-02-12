@@ -43,6 +43,10 @@ Smart-Event-Dashboard/
 
 ---
 
+## Screenshot of Dashboard
+
+
+__
 
 ## ▶️ How to Run the Project
 
