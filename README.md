@@ -45,8 +45,10 @@ Smart-Event-Dashboard/
 
 ## Screenshot of Dashboard
 
+![dashboard_ss](https://github.com/user-attachments/assets/0500d252-9c4e-4818-93d7-18349adb33d0)
 
-__
+---
+
 
 ## ▶️ How to Run the Project
 
